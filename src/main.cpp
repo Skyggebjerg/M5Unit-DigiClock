@@ -1,6 +1,7 @@
 #include <Arduino.h>
 
 #include "Wire.h"
+#include <M5Stack.h>
 #include "M5UNIT_DIGI_CLOCK.h"
 
 /* For M5Stack Basic */
